@@ -3,7 +3,7 @@
   "private": false,
   "license": "MIT",
   "main": "./dist/ion-tool-components.js",
-  "version": "1.1.5",
+  "version": "1.1.7",
   "author": {
     "name": "SJY"
   },
