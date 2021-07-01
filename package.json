@@ -1,11 +1,11 @@
 {
-  "name": "ion-tool-components",
+  "name": "sjy-tool-components",
   "private": false,
   "license": "MIT",
-  "main": "./dist/ion-tool-components.js",
-  "version": "1.1.7",
+  "main": "./dist/sjy-tool-components.js",
+  "version": "1.0.0",
   "author": {
-    "name": "SJY"
+    "name": "shijiayu0818@163.com"
   },
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shijiayu0818/ion-tool-components.git"
+    "url": "https://github.com/shijiayu0818/sjy-tool-components.git"
   },
   "browserslist": [
     "> 1%",

@@ -4,7 +4,7 @@
  * @Author: Shi Shi
  * @Date: 2021-06-29 16:06:56
  * @LastEditors: Shi Shi
- * @LastEditTime: 2021-07-01 11:25:21
+ * @LastEditTime: 2021-07-01 14:41:48
 -->
 <template>
   <div>
@@ -19,14 +19,14 @@ import First from './components/first/index.js'
 export default {
   data () {
     return {
-      initData: 'hello 你好',
+      initData: '哈哈哈，欢迎你',
       propArr: [
         {
-          name: '我i',
+          name: '我1',
           id: 'fs'
         },
         {
-          name: '我23',
+          name: '我2',
           id: 'fsd'
         }
       ]
